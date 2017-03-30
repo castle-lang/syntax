@@ -1,0 +1,23 @@
+{
+  "name": "castle-syntax",
+  "version": "0.2.0",
+  "description": "Sweet.js macros for Castle eDSL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castle-lang/syntax.git"
+  },
+  "keywords": [
+    "castle",
+    "edsl",
+    "codegen"
+  ],
+  "author": "Daniil Kolesnichenko <d.s.kolesnichenko@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castle-lang/syntax/issues"
+  },
+  "homepage": "https://castle-lang.github.io",
+  "dependencies": {
+    "sweet.js": "^2.2.1"
+  }
+}
